@@ -1,2 +1,2 @@
 # clojure_snippets
-old clojure snippets (mostly undocumented)
+clojure snippets created in a clojure workshop (mostly undocumented)
